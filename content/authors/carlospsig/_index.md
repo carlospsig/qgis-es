@@ -4,7 +4,8 @@ authors:
   - carlospsig
 title: Carlos López Quintanilla
 role: Presidencia
-bio: ""
+avatar_filename: avatar.jpeg
+bio: Consultor SIG
 social:
   - icon: envelope
     icon_pack: fas
